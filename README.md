@@ -11,7 +11,7 @@
 
 I design and build **agentic security systems** that move organizations beyond dashboards and manual triage toward **autonomous, API-driven security operations**.
 
-My work focuses on the intersection of **LLM orchestration and security governance**—ensuring that AI agents are not just capable, but auditable, policy-constrained, and resilient against adversarial input.
+My work focuses on the intersection of **LLM orchestration and security governance**, ensuring that AI agents are not just capable, but auditable, policy-constrained, and resilient against adversarial input.
 
 ---
 
